@@ -13,3 +13,8 @@ The people who made the wallpapers at google
 ## Download:
 
 [Download at releases](https://github.com/wacko1805/Pixel-Wallpaper-app/releases)
+
+## Todo:
+
+* Splashscreen
+* Fix colours on dark modes
