@@ -22,6 +22,8 @@
         <item name="bottomNavigationStyle">@style/MyApp.BottomNavigationView</item>
         <item name="customFontBold">@font/poppins</item>
         <item name="customFontNormal">@font/poppins</item>
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">@dimen/cards_corner_size</item>
     </style>
 
     <!-- Don't change the parent style -->
@@ -44,5 +46,4 @@
         -->
         <item name="labelVisibilityMode">selected</item>
     </style>
-
 </resources>

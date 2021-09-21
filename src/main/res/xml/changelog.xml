@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <version title="v1.0.0" />
-    <item text="Initial Build" />
+    <version title="v1.0.1" />
+    <item text="Changed app icon" />
     <item text="" /> <!-- this one is empty and therefore ignored -->
 </resources>

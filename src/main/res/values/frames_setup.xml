@@ -18,7 +18,7 @@
     <bool name="enable_colored_tiles">false</bool>
 
     <!-- Choose whether you want filled collection preview by default -->
-    <bool name="enable_filled_collection_preview">false</bool>
+    <bool name="enable_filled_collection_preview">true</bool>
 
     <!-- Choose whether you want to show wallpaper palette colors or not -->
     <bool name="show_wallpaper_palette_details">true</bool>
