@@ -12,7 +12,9 @@
 
 The people who made the wallpapers at google
 
+## general:
 
+All wallpapers are retrevied from my other [Google Pixel Wallpaper](https://github.com/wacko1805/google-pixel-wallpapers) repository
 
 ## Todo:
 
