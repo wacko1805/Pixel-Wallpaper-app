@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="ExtraTranslation,MissingTranslation">
+    <string-array name="credits_photos" formatted="false" tools:ignore="TypographyDashes">
+        <item>https://avatars.githubusercontent.com/u/54708993</item>
+    </string-array>
+
+    <string-array name="credits_titles">
+        <item>Jack Sam</item>
+    </string-array>
+
+    <string-array name="credits_descriptions">
+        <item></item>
+    </string-array>
+
+    <string-array name="credits_buttons">
+        <item>Github|Instagram</item>
+    </string-array>
+
+    <string-array name="credits_links">
+        <item>https://www.github.com/wacko1805|http://instagram.com/jahirfiquitiva</item>
+    </string-array>
+</resources>

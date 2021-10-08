@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--
+        Learn how to setup this file at:
+        https://github.com/jahirfiquitiva/Frames/wiki/Setting-custom-styles
+    -->
+    <style name="MyApp" />
+
+    <!--
+        Splash screen theme follow device's theme
+        You can change the parent to any of these:
+        - Frames.SplashScreen
+        - Frames.SplashScreen.Amoled
+    -->
+    <style name="MyApp.toolbar" parent="Frames.Default">
+        <item name="elevation">0dp</item>
+    </style>
+    <style name="MyApp.SplashScreen" parent="Frames.SplashScreen">
+        <item name="customFontBold">@font/poppins</item>
+        <item name="customFontNormal">@font/poppins</item>
+    </style>
+
+    <!-- Don't change the parent style -->
+    <style name="MyApp.Default" parent="Frames.Default">
+        <item name="elevation">0dp</item>
+        <item name="bottomNavigationStyle">@style/MyApp.BottomNavigationView</item>
+        <item name="customFontBold">@font/poppins</item>
+        <item name="customFontNormal">@font/poppins</item>
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">@dimen/cards_corner_size</item>
+    </style>
+
+    <!-- Don't change the parent style -->
+    <style name="MyApp.Default.Amoled" parent="Frames.Default.Amoled">
+        <item name="bottomNavigationStyle">@style/MyApp.BottomNavigationView</item>
+        <item name="customFontBold">@font/poppins</item>
+        <item name="customFontNormal">@font/poppins</item>
+    </style>
+
+    <!-- Don't change the parent style -->
+    <style name="MyApp.BottomNavigationView" parent="Widget.Frames.BottomNavigationView">
+        <!--
+            Switch bottom navigation labels visibility style
+            You can use any of there:
+            - auto
+            - labeled
+            - unlabeled
+            - selected
+            Learn more: https://developer.android.com/reference/com/google/android/material/bottomnavigation/LabelVisibilityMode
+        -->
+        <item name="elevation">0dp</item>
+        <item name="labelVisibilityMode">selected</item>
+    </style>
+</resources>

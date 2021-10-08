@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "278068332632",
+    "project_id": "pixel-fy-wallpaper",
+    "storage_bucket": "pixel-fy-wallpaper.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:278068332632:android:ad2b748f7c529f8423a22d",
+        "android_client_info": {
+          "package_name": "dev.wacko1805.pixel.wallpapers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "278068332632-ohgpsmqcl9d94kukl1udacpp38dqav2h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-EfOukKTLFSk56szLNQAn6ob7VlcR2Uo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "278068332632-ohgpsmqcl9d94kukl1udacpp38dqav2h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

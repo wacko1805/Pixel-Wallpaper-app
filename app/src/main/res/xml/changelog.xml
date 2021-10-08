@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <version title="v1.0.2" />
+    <item text="Fixed wallpapers not loading properly" />
+    <item text="Fixed dark mode Colours" />
+    <item text="Changed spacing on wallpapers" />
+    <item text="Added my profile picture" />
+    <!-- this one is empty and therefore ignored -->
+</resources>
