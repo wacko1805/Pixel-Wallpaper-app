@@ -1,7 +1,7 @@
 # Google Pixel Wallpaper app 
 ![GitHub all releases](https://img.shields.io/github/downloads/wacko1805/pixel-Wallpaper-app/total?style=for-the-badge)
   ### An app full of constantly updating Google Pixel wallpapers <br>
- # [Download Latest version](https://github.com/wacko1805/Pixel-Wallpaper-app/releases/download/v1.0/Pixel-wallpapers-V1.0.apk)
+ # [Download Latest version](https://github.com/wacko1805/Pixel-Wallpaper-app/releases/download/v1.0.2/pixel-wallpapers-v1.0.2.apk)
 
 <img width="30%" src="https://raw.githubusercontent.com/wacko1805/wacko1805/main/tia3064491751556677368.png"><img width="30%" src="https://raw.githubusercontent.com/wacko1805/wacko1805/main/tia6404478369659115365.png">
 
