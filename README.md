@@ -1,5 +1,5 @@
 # ![](https://raw.githubusercontent.com/wacko1805/Pixel-Wallpaper-app/main/assets/Pixel%20Wallpapers.png)
-## An app full of Stock Google Pixel wallpapers! Download:
+## An app full of 200+ Stock Google Pixel wallpapers! Download:
   <a href="https://github.com/wacko1805/Pixel-Wallpaper-app/releases/download/v1.0.2/pixel-wallpapers-v1.0.2.apk"><img src="https://raw.githubusercontent.com/wacko1805/Pixel-Wallpaper-app/main/assets/download.png" width="300px"></a><br>
   ![GitHub all releases](https://img.shields.io/github/downloads/wacko1805/pixel-Wallpaper-app/total?style=for-the-badge)
   
