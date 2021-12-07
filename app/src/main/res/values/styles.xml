@@ -11,30 +11,26 @@
         You can change the parent to any of these:
         - Frames.SplashScreen
         - Frames.SplashScreen.Amoled
+        - Frames.SplashScreen.MaterialYou
+        - Frames.SplashScreen.Amoled.MaterialYou
     -->
-    <style name="MyApp.toolbar" parent="Frames.Default">
-        <item name="elevation">0dp</item>
-    </style>
-    <style name="MyApp.SplashScreen" parent="Frames.SplashScreen">
-        <item name="customFontBold">@font/poppins</item>
-        <item name="customFontNormal">@font/poppins</item>
+    <style name="MyApp.SplashScreen" parent="Frames.SplashScreen.MaterialYou">
+        <item name="customFontBold">@font/manrope_bold_fam</item>
+        <item name="customFontNormal">@font/manrope_normal_fam</item>
     </style>
 
     <!-- Don't change the parent style -->
     <style name="MyApp.Default" parent="Frames.Default">
-        <item name="elevation">0dp</item>
         <item name="bottomNavigationStyle">@style/MyApp.BottomNavigationView</item>
-        <item name="customFontBold">@font/poppins</item>
-        <item name="customFontNormal">@font/poppins</item>
-        <item name="cornerFamily">rounded</item>
-        <item name="cornerSize">@dimen/cards_corner_size</item>
+        <item name="customFontBold">@font/manrope_bold_fam</item>
+        <item name="customFontNormal">@font/manrope_normal_fam</item>
     </style>
 
     <!-- Don't change the parent style -->
     <style name="MyApp.Default.Amoled" parent="Frames.Default.Amoled">
         <item name="bottomNavigationStyle">@style/MyApp.BottomNavigationView</item>
-        <item name="customFontBold">@font/poppins</item>
-        <item name="customFontNormal">@font/poppins</item>
+        <item name="customFontBold">@font/manrope_bold_fam</item>
+        <item name="customFontNormal">@font/manrope_normal_fam</item>
     </style>
 
     <!-- Don't change the parent style -->
@@ -46,9 +42,10 @@
             - labeled
             - unlabeled
             - selected
+
             Learn more: https://developer.android.com/reference/com/google/android/material/bottomnavigation/LabelVisibilityMode
         -->
-        <item name="elevation">0dp</item>
         <item name="labelVisibilityMode">selected</item>
     </style>
+
 </resources>

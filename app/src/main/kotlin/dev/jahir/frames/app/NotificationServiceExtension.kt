@@ -5,7 +5,6 @@ import androidx.core.app.NotificationCompat
 import com.onesignal.OSNotificationReceivedEvent
 import com.onesignal.OneSignal.OSRemoteNotificationReceivedHandler
 import dev.jahir.frames.extensions.context.color
-import dev.jahir.frames.extensions.context.drawable
 import dev.jahir.frames.extensions.context.preferences
 
 class NotificationServiceExtension : OSRemoteNotificationReceivedHandler {

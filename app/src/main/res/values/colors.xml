@@ -57,4 +57,6 @@
     <color name="amoledThemeSnackbarTextColor">#de000000</color>
     <color name="amoledThemeSnackbarButtonColor">#D7E9F7</color>
 
+    <color name="launcher_background_color">#ffffff</color>
+    <color name="launcher_foreground_android_color">#EDD2F3</color>
 </resources>

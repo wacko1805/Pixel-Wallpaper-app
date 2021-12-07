@@ -10,12 +10,12 @@
     any wallpapers
     -->
     <bool name="allow_immediate_downloads">true</bool>
-    
+
     <!-- Choose whether you want users to download wallpapers using Wi-Fi only by default -->
     <bool name="downloads_on_wifi_only_enabled_by_default">true</bool>
 
     <!-- Choose whether you want colored tiles by default -->
-    <bool name="enable_colored_tiles">true</bool>
+    <bool name="enable_colored_tiles">false</bool>
 
     <!-- Choose whether you want filled collection preview by default -->
     <bool name="enable_filled_collection_preview">true</bool>
@@ -27,6 +27,6 @@
     Show a custom image as placeholder while loading wallpapers or collections
     Use drawable name without extensions
     -->
-    <string name="wallpapers_placeholder"></string>
+    <string name="wallpapers_placeholder" translatable="false"></string>
     <string name="collections_placeholder" translatable="false"></string>
 </resources>

@@ -1,6 +1,5 @@
 // TODO: Remove comment marks to enable
-apply plugin: 'com.android.application'
-apply plugin: 'com.google.gms.google-services'
+
 buildscript {
     repositories {
         google()
@@ -22,14 +21,6 @@ apply plugin: 'kotlin-parcelize'
 apply plugin: 'kotlin-kapt'
 
 android {
-    signingConfigs {
-        debug {
-            storeFile file('C:\\Users\\jackc\\Documents\\pixelwallpapers.jks')
-            storePassword 'Dakota!805'
-            keyAlias 'Key0'
-            keyPassword 'Dakota!805'
-        }
-    }
     applicationVariants.all { variant ->
         variant.outputs.all { output ->
             outputFileName = defaultConfig.applicationId + "-v${variant.versionName}-${variant.name}.apk"
@@ -72,11 +63,6 @@ android {
     }
 
     buildTypes {
-        create("customDebugType") {
-            debuggable = true
-
-        }
-
         buildTypes.each {
             it.buildConfigField("String", "ONESIGNAL_APP_ID", "\"$OneSignal.appId\"")
         }
@@ -112,11 +98,9 @@ android {
 }
 
 dependencies {
-    implementation platform('com.google.firebase:firebase-bom:28.4.1')
-    implementation 'com.google.firebase:firebase-analytics'
     implementation(Libs.frames) {
         transitive = true
     }
     // TODO: Remove comment marks to enable
-     implementation Libs.oneSignal
+    implementation Libs.oneSignal
 }

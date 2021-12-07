@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?><!--suppress CheckTagEmptyBody -->
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation,ExtraTranslation">
+
     <!--
         Do you want to show a custom logo in toolbar?
         Create a new drawable and put its name here (without extension)
@@ -40,7 +41,7 @@
     1. Dark
     2. Follow system
     -->
-    <integer name="default_theme">0</integer>
+    <integer name="default_theme">2</integer>
 
     <!--
     Do you want AMOLED theme to be enabled by default? (Requires dark theme or system dark theme enabled)

@@ -13,10 +13,10 @@
     </string-array>
 
     <string-array name="credits_buttons">
-        <item>Github|Instagram</item>
+        <item>Github|Reddit</item>
     </string-array>
 
     <string-array name="credits_links">
-        <item>https://www.github.com/wacko1805|http://instagram.com/jahirfiquitiva</item>
+        <item>https://www.github.com/wacko1805|http://reddit.com/u/wacko1805</item>
     </string-array>
 </resources>
