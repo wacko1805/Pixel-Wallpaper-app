@@ -93,9 +93,8 @@
         </provider>
 
         <!-- OneSignal Notifications Service -->
-        <!-- TODO: Remove comment marks to enable
          <meta-data android:name="com.onesignal.NotificationServiceExtension"
                android:value="${applicationId}.NotificationServiceExtension" />
-        -->
+
     </application>
 </manifest>

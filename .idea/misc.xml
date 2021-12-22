@@ -3,6 +3,8 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/jackc/AppData/Local/Android/Sdk/platforms/android-31/data/res/drawable/activated_background_holo_light.xml" value="0.16018518518518518" />
+        <entry key="..\:/Users/jackc/AppData/Local/Android/Sdk/platforms/android-31/data/res/drawable/box.xml" value="0.16018518518518518" />
         <entry key="..\:/Users/jackc/Downloads/Frames-sample/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
         <entry key="..\:/Users/jackc/Downloads/Frames-sample/app/src/main/res/drawable/ic_index.xml" value="0.12135416666666667" />
         <entry key="..\:/Users/jackc/Downloads/Frames-sample/app/src/main/res/drawable/ic_launcher.xml" value="0.12135416666666667" />

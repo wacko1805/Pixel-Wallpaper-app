@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <version title="v1.0.3" />
-    <item text="Updated frames to v 3.4.6" />
-    <item text="Added Android 12 Adaptive Icon" />
-    <item text="Changed some styling" />
-    <item text="Made Wallpapers squares" /> <!-- this one is empty and therefore ignored -->
+    <version title="v1.0.4" />
+    <item text="Fixed Wallpapers not showing up" />
+<!-- this one is empty and therefore ignored -->
 </resources>
