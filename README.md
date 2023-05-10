@@ -10,13 +10,19 @@
 
 ## Credits:
 
-[jahirfiquitiva for Frames](https://github.com/jahirfiquitiva/Frames)
-
-The people who made the wallpapers at google
+* [jahirfiquitiva for Frames](https://github.com/jahirfiquitiva/Frames)
+* The people who made the wallpapers at google
+* 9to5 Google for supplying some of the wallpapers
 
 ## general:
 
 All wallpapers are retrevied from my other [Google Pixel Wallpaper](https://github.com/wacko1805/google-pixel-wallpapers) repository
+
+## Changelog:
+
+### v1.0.5:
+* Updated frames to v3.5.4
+* Rebuilt backend API
 
 ## Todo:
 
