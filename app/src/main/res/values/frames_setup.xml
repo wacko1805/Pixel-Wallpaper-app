@@ -2,7 +2,7 @@
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
 
     <!--    This is the link for the JSON file where you have listed your wallpapers -->
-    <string name="json_url">https://raw.githubusercontent.com/wacko1805/google-pixel-wallpapers/main/photos.json</string>
+    <string name="json_url">https://jacsam9.dreamhosters.com/PixelWalls/wallpapers.json</string>
 
     <!--
     Enable immediate download

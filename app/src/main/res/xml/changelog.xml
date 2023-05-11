@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <version title="v1.0.5" />
+    <item text="Updated Frames to latest" />
+    <item text="Updated API" />
+    <item text="Updated Styling" />
+
     <version title="v1.0.4" />
     <item text="Fixed Wallpapers not showing up" />
 <!-- this one is empty and therefore ignored -->
