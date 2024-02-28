@@ -2,7 +2,7 @@
 
 object Versions {
     // Plugins
-    const val gradle = "7.0.3"
+    const val gradle = "8.0.0"
     const val kotlin = "1.8.20"
 
     // OneSignal
@@ -11,9 +11,9 @@ object Versions {
 
     // App
     const val minSdk = 21
-    const val targetSdk = 33
+    const val targetSdk = 34
     const val buildTools = "30.0.3"
 
     // Frames
-    const val frames = "3.5.4"
+    const val frames = "3.6.0"
 }
